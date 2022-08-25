@@ -11408,3 +11408,15 @@ body{
    transform:translateX(1); }                                                                                                                                                                          
 }
 
+.profileCard{
+  margin-top: 50px;
+}
+.profileCardBody{
+  background-color:rgba(0,0,0,0.3);
+}
+.card{
+  background-color:rgba(0,0,0,0.3);
+}
+.CardLink{
+  background-color:rgba(0,0,0,0.3);
+}
