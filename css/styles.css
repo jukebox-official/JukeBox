@@ -11409,7 +11409,8 @@ body{
 }
 
 .profileCard{
-  margin-top: 50px;
+  margin-top: 20px;
+  margin-left:100px;
 }
 .profileCardBody{
   background-color:rgba(0,0,0,0.3);
